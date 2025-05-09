@@ -1,1 +1,2 @@
 Première ligne dans note.txt
+Deuxième ligne ajoutée
