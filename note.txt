@@ -1,2 +1,3 @@
 Première ligne dans note.txt
 Deuxième ligne ajoutée
+Troisième ligne (modification non staged)
